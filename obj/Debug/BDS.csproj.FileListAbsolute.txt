@@ -1,0 +1,12 @@
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\bin\Debug\BDS.exe.config
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\bin\Debug\BDS.exe
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\bin\Debug\BDS.pdb
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.csproj.AssemblyReference.cache
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.Form1.resources
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.Properties.Resources.resources
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.csproj.GenerateResource.cache
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.csproj.Up2Date
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.exe
+C:\Users\heise\OneDrive\Documentos\Programacion\C#\BDS\BDS\obj\Debug\BDS.pdb
